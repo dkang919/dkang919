@@ -53,11 +53,3 @@
 </p>
 
 <br />
-
-### 📈 GitHub Stats
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkang919&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkang919&layout=compact&theme=tokyonight"/>
-</a>
-</p>
